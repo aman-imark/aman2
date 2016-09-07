@@ -1,0 +1,78 @@
+s=== 2016-08-10 13:31:17 ===============================
+FILES:1
+POST:1
+=== 2016-08-10 13:31:18 ===============================
+FILES:1
+POST:1
+=== 2016-08-10 15:01:01 ===============================
+FILES:Array
+(
+    [myfile] => Array
+        (
+            [name] => Chrysanthemum - Copy (2).jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php6D01.tmp
+            [error] => 0
+            [size] => 879394
+        )
+
+)
+
+POST:Array
+(
+)
+
+=== 2016-08-10 15:01:02 ===============================
+FILES:Array
+(
+    [myfile] => Array
+        (
+            [name] => Desert - Copy - Copy.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php6E5A.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+)
+
+=== 2016-08-10 15:01:19 ===============================
+FILES:Array
+(
+    [myfile] => Array
+        (
+            [name] => Chrysanthemum - Copy (2).jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\phpB1C0.tmp
+            [error] => 0
+            [size] => 879394
+        )
+
+)
+
+POST:Array
+(
+)
+
+=== 2016-08-10 15:01:19 ===============================
+FILES:Array
+(
+    [myfile] => Array
+        (
+            [name] => Desert - Copy - Copy.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\phpB367.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+)
+

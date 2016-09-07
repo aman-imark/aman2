@@ -1,0 +1,334 @@
+=== 2016-08-04 13:47:54 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Desert - Copy (2).jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php1737.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://localhost/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-04 13:47:54 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Desert - Copy - Copy.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php1738.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://localhost/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-04 13:52:55 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Desert - Copy (2).jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\phpB02D.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://localhost/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-04 13:52:55 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Desert - Copy - Copy.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\phpB03E.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://localhost/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-04 13:57:54 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Desert - Copy (2).jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php3F34.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://localhost/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-04 13:57:54 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Desert - Copy - Copy.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php3F74.tmp
+            [error] => 0
+            [size] => 845941
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://localhost/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-15 14:25:51 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => BIG LAKE WEST CAMPGROUND.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php4277.tmp
+            [error] => 0
+            [size] => 39779
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://hadi/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-15 14:25:51 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => BIG LAKE.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php4288.tmp
+            [error] => 0
+            [size] => 39817
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://hadi/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+
+dth] => 50
+)
+
+=== 2016-08-24 12:10:23 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Jellyfish.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php764A.tmp
+            [error] => 0
+            [size] => 775702
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://hadi/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-24 12:21:08 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Koala.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php4E29.tmp
+            [error] => 0
+            [size] => 780831
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://hadi/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-24 12:23:20 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Koala.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php5451.tmp
+            [error] => 0
+            [size] => 780831
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://hadi/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-24 12:26:13 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => Koala.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\phpF69A.tmp
+            [error] => 0
+            [size] => 780831
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://hadi/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-24 12:29:17 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => BAILEY COVE.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\phpC609.tmp
+            [error] => 0
+            [size] => 57601
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://hadi/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-24 12:38:29 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => BAILEY COVE.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php32C5.tmp
+            [error] => 0
+            [size] => 57601
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://hadi/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
+=== 2016-08-24 12:41:05 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => BAILEY COVE.jpg
+            [type] => image/jpeg
+            [tmp_name] => E:\xampp\tmp\php9446.tmp
+            [error] => 0
+            [size] => 57601
+        )
+
+)
+
+POST:Array
+(
+    [post] => http://hadi/campsite/wp-content/themes/campsitetheme/droparea/upload.php
+    [crop] => true
+    [height] => 100
+    [width] => 50
+)
+
